@@ -18,7 +18,7 @@
 #### Подключение проекта и запуск:
  - [ ] Клонируйте проект с GitHub:
 ```
-git clone git@github.com:ваш_аккаунт/foodgram-project-react.git
+git clone git@github.com:ваш_аккаунт/random_values.git
 ```
  - [ ] Запуск программы(поднять сеть контейнеров:
 ```
