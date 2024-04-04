@@ -32,5 +32,7 @@ docker ps
 ```
 docker-compose down -v --rmi all --remove-orphans
 ```
+## ****Примечание****
+- Переменные окружения для подключения к БД не убирал в библиотеку 'python-dotenv' для быстрого запуска демонстрацинной программы (POSTGRES_USER, POSTGRES_PASSWORD, POSTGRES_DB).
 ## **Автор**
 - Алексей Коренков
